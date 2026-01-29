@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Quân Hoàng
 
- Software Engineer
- Vietnam
+ Software Engineer, Vietnam
 
 ---
 
